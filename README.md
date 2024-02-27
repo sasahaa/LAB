@@ -7,10 +7,10 @@
 ## Характеристики
 
 ### Відеоадаптер: AMD Radeon(TM) Graphics (512 Мб)
-![Фото]([https://static.gigabyte.com/StaticFile/Image/Global/0d086416ce2f20109210fced45c44b84/Product/15458/Png](https://www.amd.com/system/files/2023-09/2279680-amd-radeon-laptop-gpus_0.png))
+![Фото](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/AMD_Radeon_logo.svg/800px-AMD_Radeon_logo.svg.png)
 
 ### Тип ЦП: HexaCore AMD Ryzen 5 5500U, 4000 МГц (40.5 x 99)
-![Фото](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgVFRUYGBgaHRoaGBoaGh4cHh4eGhoaHBgaGh4cIS4lHCErIRocJjgmKy8xNTU1ISQ7QDszPy40NTEBDAwMEA8QHhISGjQhJCQ0NDQ0NDQ0NDE0NDQ0NDQ2NTQ0NDQ0NDQ0NDE0NDQ2NDQ0NDY0NDQxNDQ0NDQxNDQ0NP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgECAwQFBwj/xAA8EAACAQIEAggDBgYCAgMAAAABAgADEQQSITEFQQYTIlFhcYGRMqGxB0JSYnLBI4KSotHwFDMkwkPh8f/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/8QAJhEBAQACAAYCAQUBAAAAAAAAAAECEQMSITFBUSKRcYGhscHRYf/aAAwDAQACEQMRAD8A9miIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiB//Z)
+![Фото](https://laptoping.com/cpus/wp-content/uploads/2021/07/AMD-Ryzen-5-5500U.gif)
 
 ### Чiпсет системної плати: AMD K17.6 FCH, AMD K17.6 IMC
 ### Тип модуля: SO-DIMM
