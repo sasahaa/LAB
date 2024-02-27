@@ -7,10 +7,10 @@
 ## Характеристики
 
 ### Відеоадаптер: AMD Radeon(TM) Graphics (512 Мб)
-![Фото](https://hardzone.es/wp-content/uploads/2011/12/AMD-Radeon-Logo.jpg)
+![Фото](https://hardzone.es/wp-content/uploads/2011/12/AMD-Radeon-Logo.jpg =80x120)
 
 ### Тип ЦП: HexaCore AMD Ryzen 5 5500U, 4000 МГц (40.5 x 99)
-![Фото](https://laptoping.com/cpus/wp-content/uploads/2021/07/AMD-Ryzen-5-5500U.gif)
+![Фото](https://laptoping.com/cpus/wp-content/uploads/2021/07/AMD-Ryzen-5-5500U.gif =80x120)
 
 ### Чiпсет системної плати: AMD K17.6 FCH, AMD K17.6 IMC
 ### Тип модуля: SO-DIMM
