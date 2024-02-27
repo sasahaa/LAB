@@ -2,7 +2,7 @@
 
 ![Фото 1](https://www.notebookcheck-ru.com/fileadmin/Notebooks/Acer/Aspire_5_A515-45-R4R1/Acer_Aspire_5_A515_45_R4R1_Test.png)
 ![Фото 2](https://hi-tech.md/images/detailed/43/noutbuk__acer__aspire__5__a515__45g__charcoal__black__nx__a8aeu__007__45226.png)
-![Фото 3](https://hi-tech.md/images/detailed/43/noutbuk__acer__aspire__5__a515__45g__charcoal__black__nx__a8aeu__007__45226.png)
+![Фото 3](https://hi-tech.md/images/detailed/43/noutbuk__acer__aspire__5__a515__45g__charcoal__black__nx__a8aeu__007__45229.png)
 
 ## Характеристики
 
