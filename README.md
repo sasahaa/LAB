@@ -1,34 +1,7 @@
 # Acer Aspire A515-45G
 
-| Зображення 1 | Зображення 2 | Зображення 3 |
-|-------------|-------------|-------------|
-| ![
-|-------------|-------------|-------------|
-| ![Зображення 1](шлях
-|-------------|-------------|-------------|
-| ![Зображення 1](шлях
+|  ![alt](https://www.notebookcheck-ru.com/fileadmin/Notebooks/Acer/Aspire_5_A515-45-R4R1/Acer_Aspire_5_A515_45_R4R1_Test.png)        | ![alt](https://elektronika.com.tm/cache/large/product/945/C3PmAAZpAdoRZvK3HyEITyWO1MF3BoAUw8Df9KNF.png)     |  ![alt](https://hi-tech.md/images/detailed/44/noutbuk__acer__aspire__5__a515__45g__charcoal__black__nx__a8aeu__007__45233.png)        |
 
-|-------------|-------------|-------------|
-| ![Зображення 1](шля
-
-|-------------|-------------|-------------|
-| ![Зображення 1](
-
-|-------------|-------------|-------------|
-| ![Зображення 
-
-|-------------|-------------|-------------|
-| ![Зображ
-
-|-------------|-------------|-------------|
-| ![
-
-|-------------|-------------|-------------
-
-|-------------|-------------
-
-|-------------
-Зображення 1]([шлях_до_зображення_1](https://www.notebookcheck-ru.com/fileadmin/Notebooks/Acer/Aspire_5_A515-45-R4R1/Acer_Aspire_5_A515_45_R4R1_Test.png)) | ![Зображення 2](https://hi-tech.md/images/detailed/43/noutbuk__acer__aspire__5__a515__45g__charcoal__black__nx__a8aeu__007__45226.png) | ![Зображення 3]((https://hi-tech.md/images/detailed/44/noutbuk__acer__aspire__5__a515__45g__charcoal__black__nx__a8aeu__007__45233.png) |
 
 
 ## Характеристики
